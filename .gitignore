@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Exclude executable files
+pointer_test
+pointer_update
+array_test
+function_test
+function_exam
