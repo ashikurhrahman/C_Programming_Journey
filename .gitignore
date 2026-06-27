@@ -59,3 +59,9 @@ pointer_update
 array_test
 function_test
 function_exam
+# Ignore all executable files regardless of name
+*
+!*.c
+!*.gitignore
+!README.md
+!LICENSE
