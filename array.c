@@ -8,8 +8,8 @@ int main(){
 
     for ( i = 0; i < 5; i++)
     {
+        /* code */
         printf("Roll: %d\n", rolls[i]);
     }
     return 0;
-    
 }
