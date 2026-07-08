@@ -22,7 +22,7 @@
 
     // Calling the function to get the larger value 
     int maxVal = findMax(arr, size);
-     
+      
     printf("The largest number in this array is: %d\n", maxVal);
 
     return 0;
